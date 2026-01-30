@@ -1,4 +1,4 @@
-#include "Livro.h"
+#include"aplicacao.h"
 #include<iostream>
 
 void CadastraLivro(GerenciaLivro* Cadastro, std::vector<Livro>& lista)
