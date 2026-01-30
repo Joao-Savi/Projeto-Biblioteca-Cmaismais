@@ -1,3 +1,15 @@
 .vs/
 obj/
 obj/
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ilk
